@@ -1,4 +1,6 @@
 # global-sprint-2016-vancouver
+
+[![Join the chat at https://gitter.im/joeyklee/global-sprint-2016-vancouver](https://badges.gitter.im/joeyklee/global-sprint-2016-vancouver.svg)](https://gitter.im/joeyklee/global-sprint-2016-vancouver?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This is the admin repository for the Mozilla Science Lab Global Sprint 2016
 
 ## Admin:
