@@ -10,7 +10,9 @@ It is a 2 day “Sprint” in which the Mozilla & open science community - new a
 
 ## Where is the Global Sprint?
 There are sites around the world that are hosting the event including a site here in Vancouver at the Mozilla Office downtown. 
-Mozilla Vancouver Offices, 163 W Hastings St, Suite 209 Vancouver, BC V6B 1H5 Canada
+Mozilla Vancouver Offices, [163 W Hastings St, Suite 209 Vancouver, BC V6B 1H5 Canada](https://www.google.ca/maps/place/163+W+Hastings+St+%23209,+Vancouver,+BC+V6B+1H5/data=!4m2!3m1!1s0x5486717999142447:0xabeed438dfb06f5c?sa=X&ved=0ahUKEwjOmf_ZjfvMAhVQ3WMKHTCiCfkQ8gEIGzAA)
+
+![](assets/img/moz-van.png)
 
 ## When is the Global Sprint?
 June 2-3
